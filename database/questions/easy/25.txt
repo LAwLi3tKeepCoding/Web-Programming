@@ -1,0 +1,7 @@
+Computer Science
+The units of data exchanged by a link-layer protocol are called ________.
+A. frames
+B. segments
+C. datagrams
+D. bit streams
+A

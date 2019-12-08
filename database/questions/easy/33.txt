@@ -1,0 +1,7 @@
+Computer Science
+In the following options, which one is not a guided media ?
+A. twisted-pair wire
+B. fiber optics
+C. coaxial cable
+D. satellite
+D

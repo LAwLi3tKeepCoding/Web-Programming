@@ -1,0 +1,7 @@
+Computer Science
+Which kind of media is not a guided media ?
+A. twisted-pair copper wire
+B. a coaxial cable
+C. fiber optics
+D. digital satellite channel
+D

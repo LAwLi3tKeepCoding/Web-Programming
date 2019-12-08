@@ -1,0 +1,7 @@
+Security
+Buy food and find the following situations not to buy __________.
+A. Packing Damage
+B. Overdue Warranty Period
+C. Label annotations are incomplete, such as no factory name, factory site, etc.
+D. Food appearance is mildewed and deteriorated.
+ABCD

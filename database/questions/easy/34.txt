@@ -1,0 +1,7 @@
+Computer Science
+There are two classes of packet-switched networks: ________ networks and virtual-circuit networks.    
+A. datagram
+B. circuit-switched
+C. television
+D. telephone
+A

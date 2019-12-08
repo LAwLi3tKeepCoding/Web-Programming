@@ -1,0 +1,7 @@
+Computer Science
+C++ include the following pillars ________.
+A. encapsulation
+B. data hiding
+C. inheritance
+D. polymorphism
+ABCD

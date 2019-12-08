@@ -1,0 +1,7 @@
+Computer Science
+The end equipment in a communication system includes ________.
+A. computers
+B. DCE
+C. CRTs
+D. keyboards
+ACD

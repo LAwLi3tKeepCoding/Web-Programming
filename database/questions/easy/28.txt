@@ -1,0 +1,7 @@
+Computer Science
+________ is a storage location inside the processor.
+A. A register
+B. ALU
+C. Control
+D. Memory
+A

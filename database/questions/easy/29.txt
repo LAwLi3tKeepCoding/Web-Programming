@@ -1,0 +1,7 @@
+Computer Science
+The raw data are stored on the disk using the ________.
+A. data dictionary
+B. file system
+C. DBMS
+D. DBA
+B

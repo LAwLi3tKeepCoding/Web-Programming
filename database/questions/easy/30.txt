@@ -1,0 +1,7 @@
+Computer Science
+The major functional components of an office automation system include ________.
+A. text processing
+B. information storage and retrieval
+C. electronic mail
+D. personal assistance features
+ABCD

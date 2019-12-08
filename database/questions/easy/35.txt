@@ -1,0 +1,7 @@
+Computer Science
+Many viruses do harmful things such as ________.
+A. deleting files
+B. changing random data on your disk
+C. simulating typos
+D. slowing your PC down
+ABCD
