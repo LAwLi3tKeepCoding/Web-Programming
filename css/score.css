@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/bg1.jpg");
+    background-size: 100%;
+    margin: 0;
+}
+
+.centerbox {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1200px;
+    background-color: #FFFAF0;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    height: 600px;
+    border-radius: 20px;
+    border: double 10px #8B0000;
+}
+
+.centerbox h1 {
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+
+#score {
+    margin-top: 10px;
+    font-size: 180px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+#back {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#back a {
+    font-size: 30px;
+    font-weight: bold;
+}

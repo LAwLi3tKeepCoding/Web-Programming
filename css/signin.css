@@ -1,0 +1,158 @@
+body {
+    background-image: url("../images/bg1.jpg");
+    background-size: 100%;
+    margin: 0;
+}
+
+#top_banner {
+	background-color: #F5F5F5;
+	border-bottom: double 2px #696969;
+	height: 28px;
+	padding: 10px 5px 20px 10px
+}
+
+.centerbox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.leftbox {
+    float: left;
+    background-color: #F5F5F5;
+    border-color: #696969;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 13px;
+    margin-left: 115px;
+    width: 280px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.leftbox img, .leftbox .submit input {
+    margin-left: 90px;
+}
+
+.leftbox h2, .select, .select select{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.leftbox h2 a {
+    color: #B22222;
+    /*text-decoration: none;*/
+}
+
+.select {
+    
+    font-size: 18px;
+    color: #B22222;
+}
+
+#degree {
+    border-style: solid;
+    border: solid 2px black;
+}
+
+.leftbox ul {
+    padding: 0;
+}
+
+.leftbox li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #00BFFF;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+.rightbox {
+    border-left: double 10px #A9A9A9;
+    width: 740px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+.signin_form {
+    float: left;
+    background-color: #F5F5F5;
+    border-color: #696969;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 95px;
+    margin-left: 50px;
+    padding: 50px;
+}
+
+.signin_form h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+#input input {
+    margin-bottom: 10px;
+    width: 220px;
+    height: 30px;
+    border: solid 2px #00BFFF;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.submit input{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #F5F5F5;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size: 16px;
+    width: 100px;
+    border: solid 2px #696969;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.button {
+    font-size: 24px;
+}
+
+.left {
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.right {
+    float: right;
+}
+
+.right p {
+    float: right;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #8B0000;
+}
+
+.right a {
+    color: rgb(3, 3, 201);
+    margin-left: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+

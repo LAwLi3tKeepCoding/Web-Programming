@@ -1,0 +1,41 @@
+body {
+    background-color: gainsboro;
+    background-image: url("../images/bg3.jpg");
+    background-size: 190%;
+}
+
+#homepagelogo {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 58px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 span {
+    color: #B22222;
+}
+
+#enter {
+    text-align: center;
+    margin-top: 70px;
+}
+
+#enter a {
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: gray 5px 5px 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
