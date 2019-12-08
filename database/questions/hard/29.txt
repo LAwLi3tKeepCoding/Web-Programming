@@ -1,0 +1,8 @@
+Computer Science
+High-level languages are commonly classified as ________.
+object-oriented
+A. automatic
+B. functional
+C. logic languages
+D. procedure-oriented
+ACDE

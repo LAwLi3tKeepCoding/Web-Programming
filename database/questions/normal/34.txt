@@ -1,0 +1,7 @@
+Computer Science
+________ refers to the process of a two dimensional picture by a digital computer.
+A. Pattern recognition
+B. Image compression
+C. Digital image processing
+D. Image data file formt
+C

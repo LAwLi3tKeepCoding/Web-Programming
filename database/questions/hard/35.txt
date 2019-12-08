@@ -1,0 +1,7 @@
+Computer Science
+To enhance performance of a computer system we should ________.
+A. improve the pattern of referencing operand
+B. optimize the simple movement of data
+C. optimize the basic sequence control mechanism
+D. use if and loop instructions as many as possible
+ACD

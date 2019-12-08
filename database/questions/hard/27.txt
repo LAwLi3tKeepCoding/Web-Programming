@@ -1,0 +1,7 @@
+Computer Science
+In the Internet, the equivalent concept to end systems is ________.
+A. hosts
+B. servers
+C. clients
+D. routers
+A

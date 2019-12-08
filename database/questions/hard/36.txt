@@ -1,0 +1,7 @@
+Computer Science
+A mechanism for translating Internet hostnames into IP addresses is         .
+A. equipped into the general-purpose operating system
+B. typically inside of operating system kernel
+C. as a middleware by authors definition
+D. typically outside of operating system kernel
+BCD

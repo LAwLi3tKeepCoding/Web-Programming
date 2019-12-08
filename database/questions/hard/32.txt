@@ -1,0 +1,7 @@
+Computer Science
+The equipment ________.
+A. transfers the number of bits in serial form
+B. manipulates digital information internally in word units
+C. transfers the number of bits in parallel
+D. manipulates digital information internally in serial form
+AB

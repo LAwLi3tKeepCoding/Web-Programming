@@ -1,0 +1,7 @@
+Computer Science
+Access networks can be loosely classifed into three categories: residential access, company access and ________ access.
+A. cabled
+B. wireless
+C. campus
+D. city area
+B

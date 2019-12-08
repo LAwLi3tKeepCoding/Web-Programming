@@ -1,0 +1,7 @@
+Computer Science
+With an Internet connection you can get some of the basic services available are ________.
+A. e-mail
+B. telnet
+C. FTP
+D. usenet news
+ABCD

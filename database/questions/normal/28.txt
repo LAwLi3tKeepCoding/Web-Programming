@@ -1,0 +1,7 @@
+Computer Science
+A computer system user generally more cares for ________.
+A. speed of computation
+B. storage size
+C. physical size of the computer
+D. efficiency of the computer
+ABD

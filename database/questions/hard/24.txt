@@ -1,0 +1,7 @@
+Computer Science
+The register file is ________.
+A. addressed by much shorter addresses
+B. physically large
+C. physically small
+D. one the same chip as the CPU
+ACD

@@ -1,0 +1,8 @@
+Computer Science
+The Application layer in TCP/IP Model is correspond to ________ in OSI Model.
+A. presentation
+B. session layer
+C. transport layer
+D. application layer
+E. network layer
+ABD

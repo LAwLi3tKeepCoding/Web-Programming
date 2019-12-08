@@ -1,0 +1,7 @@
+Computer Science
+A processor is composed of ________.
+A. an arithmetic
+B. a control unit
+C. registers 
+D. logic unit
+ABCD

@@ -1,0 +1,8 @@
+Computer Science
+The development process in the software life cycle involves ________.
+A. analysis
+B. audit
+C. implementation
+D. design 
+E. testing
+ACDE

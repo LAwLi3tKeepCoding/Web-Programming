@@ -1,0 +1,7 @@
+Computer Science
+Microsoft Windows currently supports ________ file systems.
+A. NTFS
+B. OCFS
+C. FAT
+D. NILFS
+AC
